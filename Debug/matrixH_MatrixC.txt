@@ -1,0 +1,5 @@
+matrix H
+matrix C
+vector P
+
+matrix calculated

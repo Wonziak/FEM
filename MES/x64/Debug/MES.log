@@ -1,0 +1,9 @@
+﻿  Grid.cpp
+E:\MES\MES\MES\Grid.cpp(330,7): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+E:\MES\MES\MES\Grid.cpp(330,86): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+E:\MES\MES\MES\Grid.cpp(443,6): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+E:\MES\MES\MES\Grid.cpp(443,85): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+  Main.cpp
+  Generowanie kodu...
+E:\MES\MES\MES\Grid.cpp(488,52): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  MES.vcxproj -> E:\MES\MES\x64\Debug\MES.exe

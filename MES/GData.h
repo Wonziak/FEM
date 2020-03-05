@@ -12,7 +12,7 @@ struct GlobalData {
 	double dx, dy; //odleg³oœci wêz³ów
 	double initTemp = 100;
 	double dT = 50;
-	double duration = 500;
+	double duration = 100;
 	double alfa = 300;
 	double ambTemp = 1200;
 	double conductivity=25;

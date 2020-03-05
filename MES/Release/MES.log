@@ -1,0 +1,18 @@
+﻿  Grid.cpp
+  Main.cpp
+  Matricies.cpp
+  Matrix.cpp
+E:\MES\MES\MES\Matrix.cpp(46,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\MES\MES\MES\Matrix.cpp(46,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\MES\MES\MES\Matrix.cpp(90,22): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\MES\MES\MES\Matrix.cpp(90,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\MES\MES\MES\Matrix.cpp(99,16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Node.cpp
+  UniversalElem.cpp
+E:\MES\MES\MES\Matrix.cpp(107,18): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  27 of 194 functions (13.9%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  MES.vcxproj -> E:\MES\MES\Release\MES.exe
